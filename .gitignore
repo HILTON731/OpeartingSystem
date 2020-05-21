@@ -1,0 +1,16 @@
+# : comments
+
+# no .hwp files
+*.hwp
+
+# only ignore folder "\354\232\224\354\225\275/"
+"\354\232\224\354\225\275/"
+
+# no .zip files
+*.zip
+
+# no .pdf files
+*.pdf
+
+# no .ppt files
+*.pptx
